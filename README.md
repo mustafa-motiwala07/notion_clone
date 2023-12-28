@@ -1,36 +1,44 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Features in this application.
 
-## Getting Started
 
-First, run the development server:
+🤯 Real-time cursors
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+📝 Real-time text selection
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+⏱️ Real-time database and collaboration
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+🟢 Real-time presence
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+🗑️ Move to trash functionality
 
-## Learn More
+😜 Custom emoji picker
 
-To learn more about Next.js, take a look at the following resources:
+🌙 Light mode dark mode
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+🚨 Next.js 13 app router
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+🗺️ Creating free plan restrictions
 
-## Deploy on Vercel
+💰 Take monthly payments
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+📧 Custom email 2FA invitation
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+⚡️ Supabase Row level policy
+
+👨‍👨‍👧‍👦 Real-time Collaboration
+
+👾 Deployment
+
+🤑 Custom Rich text editor
+
+📚 Update profile settings
+
+📍 Manage payments in a portal
+
+🔐 Custom Authentication
+
+✳️ Websockets
+
+📣 Optimistic UI
+
+📱 Responsive design
